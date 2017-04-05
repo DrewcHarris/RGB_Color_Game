@@ -6,7 +6,7 @@ This is one of the projects built during [The Web Developer Bootcamp](https://ww
 
 ## Completed Project
 
-![Alt text](screenshot coming soon)
+![Alt text](https://github.com/DrewcHarris/RGB_Color_Game/blob/master/screenshot.png?raw=true)
 
 You can view the fully working project [here](http://codepen.io/drewharris/full/RpOXPX/).
 
